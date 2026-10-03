@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of wolfgang-demeter/flarum-ext-bbcode-5star-rating.** Not for installation: use [Packagist](https://packagist.org/packages/wolfgang-demeter/flarum-ext-bbcode-5star-rating) or the [upstream repository](https://github.com/wolfgang-demeter/flarum-ext-bbcode-5star-rating).
 
-**0** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0`
+**9** versions archived · Latest: [`v0.1.8`](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-07-31 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-08-01 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-12-29 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.2) |
+| `v0.1.3` | 2021-12-29 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.3) |
+| `v0.1.4` | 2021-12-29 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.4) |
+| `v0.1.5` | 2021-12-29 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.5) |
+| `v0.1.6` | 2021-12-29 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.6) |
+| `v0.1.7` | 2022-01-01 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.7) |
+| `v0.1.8` | 2022-01-17 | `^1.0` | [Browse](https://github.com/flarchive/wolfgang-demeter-flarum-ext-bbcode-5star-rating/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/wolfgang-demeter-flarum-ext-bbcode-5star-rating.json](https://github.com/flarchive/archive-index/blob/main/packages/wolfgang-demeter-flarum-ext-bbcode-5star-rating.json)
 
